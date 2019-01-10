@@ -1,3 +1,4 @@
 Mars is blue
 Mars has polar icecaps
-Mars is a little more than half the size of earth
+Mars is gaseous
+Mars is double the size of earth
